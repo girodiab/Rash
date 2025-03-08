@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:A4276331-E458-4528-B3FD-077FDA7B5C5B</id>
+ <title>Page list Atom feed</title>
+ <updated>2021-10-03T18:57:00-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:0E3CB74D-653E-46E9-9516-DEBF0A81A34D</id>
+  <title>Rash iPhone App</title>
+  <title xmlns="urn:iweb:">Rash iPhone App</title>
+  <in-navbar xmlns="urn:iweb:">0E3CB74D-653E-46E9-9516-DEBF0A81A34D</in-navbar>
+  <link rel="alternate" href="Rash_iPhone_App.html"/>
+  <updated>2021-10-03T18:57:00.001-04:00</updated>
+  <content>Rash iPhone App</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9561439F-6E2A-4553-9716-503645409521</id>
+  <title>Privacy Policy</title>
+  <title xmlns="urn:iweb:">Privacy Policy</title>
+  <in-navbar xmlns="urn:iweb:">9561439F-6E2A-4553-9716-503645409521</in-navbar>
+  <link rel="alternate" href="Privacy_Policy.html"/>
+  <updated>2021-10-03T18:57:00.002-04:00</updated>
+  <content>Privacy Policy</content>
+ </entry>
+</feed>
